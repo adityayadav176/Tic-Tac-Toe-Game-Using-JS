@@ -31,6 +31,10 @@ main h1 {
     gap: 1.5vmin;
 }
 
+@media only screen and (max-width: 455px) {
+}
+
+
 .box {
     height: 18vmin;
     width: 18vmin;
