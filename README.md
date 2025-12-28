@@ -34,5 +34,4 @@ Example: `https://adityayadav176.github.io/tic-tac-toe/`
 
 ---
 
-## 🚀 How to Run Locally
-   git clone https://github.com/your-username/tic-tac-toe.git
+
